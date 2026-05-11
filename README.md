@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I’m a full-stack engineer specializing in the MERN stack, focused on building scalable, high-performance applications with clean architecture and real-time systems.<br><br>Currently, I’m developing a trading platform that enables signal-based strategies and real-time data processing, inspired by modern algorithmic trading systems. The goal is to create a robust infrastructure that can handle live market data, low-latency updates, and intelligent decision flows.<br><br>I have a strong interest in system design, performance optimization, and building reliable end-to-end products—from backend architecture to intuitive frontend experiences.<br><br>I’m driven by solving complex problems and collaborating with ambitious builders to create products that have real-world impact.
+I’m a full-stack engineer specializing in the MERN stack, focused on building scalable, high-performance applications with clean architecture and real-time systems.<br><br>I have a strong interest in system design, performance optimization, and building reliable end-to-end products—from backend architecture to intuitive frontend experiences.<br><br>I’m driven by solving complex problems and collaborating with ambitious builders to create products that have real-world impact.<br><br>Currently, I’m developing a trading platform that enables signal-based strategies and real-time data processing, inspired by modern algorithmic trading systems. The goal is to create a robust infrastructure that can handle live market data, low-latency updates, and intelligent decision flows.
 
 
 ## 🌐 Socials:
